@@ -3,7 +3,6 @@ package com.hasbrain.challenge;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
-import android.util.Log;
 import android.util.TypedValue;
 import android.view.Menu;
 import android.view.MenuInflater;
@@ -32,7 +31,6 @@ public class MainActivity extends AppCompatActivity implements ViewTreeObserver.
         if (getTheme().resolveAttribute(android.R.attr.actionBarSize, tv, true))
             actionBarHeight = TypedValue.complexToDimensionPixelSize(tv.data, getResources().getDisplayMetrics());
         frame_head_defheight  = getResources().getDimensionPixelSize(R.dimen.frame_head_height);
-        Log.e("Size", "Line 29 - onCreate : " + actionBarHeight + " " + frame_head_defheight);
 
         Toolbar mToolbar = (Toolbar) findViewById(R.id.toolbar);
         mToolbar.setTitle("");
