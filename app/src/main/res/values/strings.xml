@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HasBrain - Challenge 1</string>
+    <string name="film_discription">Từ sau những sự kiện và những trận chiến đầy ám ảnh trong The Avengers, Tony Stark quay về ở ẩn trong căn biệt thự sang trọng của mình, tạm thời chờ đợi trong tư cách một tỷ phú giàu có được yêu mến và gác danh phận siêu anh hùng sang một bên.\n\n
+
+Tuy nhiên, những hiểm họa mới lại tiếp tục xuất hiện dưới bóng ma bao trùm của một quái nhân, đồng thời cũng là một thiên tài về công nghệ - The Mandarin. Người bạn thân trong lực lượng quân đội Hoa Kỳ của Tony - James Rhodes cần tới sự giúp đỡ của anh và những bộ giáp siêu việt.\n\n
+
+Mọi chuyện không hề dễ dàng như Tony và James tưởng tượng: dưới sức mạnh thần bí của mười chiếc nhẫn vũ trụ, The Mandarin đã đánh bại "Người Sắt", đồng thời khiến siêu anh hùng - tỷ phú trở thành kẻ mất trí nhớ...</string>
+    <string name="film_label">Iron Man 3</string>
+    <string name="film_label_vi">Người sắt 3</string>
+    <string name="imdb">Đánh giá</string>
+</resources>
